@@ -10,6 +10,9 @@
 #
 #################################################################
 
+DATETIME=$(date +%H:%M)
+LISTNAMES="./names.txt"
+
 clear
 
 echo "
@@ -25,9 +28,9 @@ echo "
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⠶⠋⠀⠀⠀
     "
 echo "My funny first Script"
-echo " "
-echo "Show data and time now: "
-date
-echo "List of Names: "
-echo " "
-sort ../ShellScript-/names.txt
+
+echo "Show date and time now: $DATETIME"
+
+echo "List of Names:"
+
+sort $LISTNAMES
