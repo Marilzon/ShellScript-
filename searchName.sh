@@ -8,7 +8,8 @@
 # Created At: 22/10/2020						#
 #									#
 # Description: 	Script for example to read command.			#
-# 		from a user input, find the string in file names.txt	#
+# 		from a user input, find if name exists and return 	#
+#		full name.						#
 #									#
 # Usage: ./searchNames.sh						#
 #									#
