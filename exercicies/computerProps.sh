@@ -31,15 +31,4 @@ echo "Total memory: $MEMTOTAL MB"
 echo 
 echo "DiskPart:"
 echo "$FILESYS"
-echo 
-
-
-
-
-
-
-
-
-
-
 
