@@ -13,5 +13,5 @@
 read -p "Input the first NUMBER: " a
 read -p "Input the second NUMBER: " b
 
-echo $((a + b))
+echo "$(expr $a + $b)"
 
