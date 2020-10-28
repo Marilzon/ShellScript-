@@ -1,9 +1,9 @@
-#!/bin/bash
+lll#!/bin/bash
 
-# Name: chooseMenu.sh
+# Name: menoCase.sh
 # Author: Marilzon de Sousa(maxmaril@hotmail.com)
-# Description: The script is a example of menu using CASE
-# Usage: . chooseMenu.sh
+# Description: The script is a example of meno using CASE
+# Usage: . menuCase.sh
 
 echo "Choose the menu option:"
 echo 
