@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Name: if.sh
+# Name: whatsHour.sh
 # Author: Marilzon de Sousa(maxmaril@hotmail.com)
 # Description:  Script to echo dinanmic Hello 
 #               and return if time now is AM or PM.
