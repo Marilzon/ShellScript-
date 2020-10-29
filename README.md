@@ -5,3 +5,7 @@ This repository is files created based on online course (https://www.udemy.com/c
 ## Installation
 
 this bash files scripts run in all linux terminals.
+
+### Others
+
+- Sorry my english, i practise englito in all commits!
