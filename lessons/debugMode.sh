@@ -2,12 +2,16 @@
 
 # Name: debigMode.sh
 # Author: Marilzon de Sousa(maxmaril@hotmail.com)
-# Description: Script to show bash in mode debugger
+# Description: Script to execute bash in  debug mode
 # Usage: . debugMode.sh
 clear
-set -xv # use -x or -v or -xv, for variables cases
+trap read DEBUG # Start debug line to line
+
 echo "Hello developer!"
 read -p "Whats your name? " NAME 
 echo
 echo "Welcome $NAME, have a nice code!"
-set +xv # +sv to close debug running
+
+echo "End"
+
+set +xv # Leave debug mode
