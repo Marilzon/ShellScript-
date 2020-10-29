@@ -10,3 +10,4 @@ echo "Hello developer!"
 read -p "Whats your name? " NAME 
 echo
 echo "Welcome $NAME, have a nice code!"
+set +xv # +sv to close debug running
