@@ -8,4 +8,4 @@ this bash files scripts run in all linux terminals.
 
 ### Others
 
-- Sorry my english, i practise englito in all commits!
+- Sorry my english, i practise english in all commits!
